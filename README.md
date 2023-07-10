@@ -1,2 +1,0 @@
-# resume
-my latest resume
